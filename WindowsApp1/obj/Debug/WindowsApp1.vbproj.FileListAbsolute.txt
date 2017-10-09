@@ -1,0 +1,22 @@
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Misha\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Misha\Dropbox\Григорьев Миша\07 Задачи на апрель\AddNotifications\WindowsApp1\obj\Debug\WindowsApp1.pdb
